@@ -26,17 +26,62 @@ I enjoy exploring new attack vectors, understanding adversary tactics, and imple
 
 ---
 
-## 🛠 Core Skills & Tools
+## 🛠 Core Skills & Tools  
 
-| Domain | Tools / Skills |
-|:-------|:----------------|
-| **Ethical Hacking & Pentesting** | CEH v13, Kali Linux, Metasploit, Burp Suite, Nessus |
-| **Vulnerability Assessment** | Nmap, Zenmap, OpenVAS, Nikto, OWASP ZAP |
-| **Network Security** | Wireshark, TCPDump, Snort, Firewalls, VPNs |
-| **Threat Analysis & Incident Response** | VirusTotal, Splunk, SIEM Tools |
-| **Web Security** | OWASP Top 10, XSS, SQL Injection, CSRF Testing |
-| **System Hardening & Defense** | Linux Server Security, Patch Management |
-| **Development Skills** | HTML, CSS, JavaScript (for secure web testing) |
+### 🧠 Ethical Hacking & Penetration Testing  
+![CEH v13](https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH%20v13-red?style=for-the-badge&logo=hack-the-box&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-darkblue?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-lightblue?style=for-the-badge&logo=tenable&logoColor=white)
+
+---
+
+### 🧩 Vulnerability Assessment  
+![Nmap](https://img.shields.io/badge/Nmap-grey?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Zenmap](https://img.shields.io/badge/Zenmap-blueviolet?style=for-the-badge&logo=linux&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-green?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-darkgreen?style=for-the-badge&logo=internetexplorer&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-black?style=for-the-badge&logo=owasp&logoColor=white)
+
+---
+
+### 🌐 Network Security  
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white)
+![TCPDump](https://img.shields.io/badge/TCPDump-grey?style=for-the-badge&logo=linux&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-pink?style=for-the-badge&logo=snort&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-red?style=for-the-badge&logo=cisco&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-yellow?style=for-the-badge&logo=protonvpn&logoColor=white)
+
+---
+
+### 🧩 Threat Analysis & Incident Response  
+![VirusTotal](https://img.shields.io/badge/VirusTotal-blue?style=for-the-badge&logo=virustotal&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-Tools-orange?style=for-the-badge&logo=elasticstack&logoColor=white)
+
+---
+
+### 🔐 Web Security  
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-darkred?style=for-the-badge&logo=owasp&logoColor=white)
+![XSS](https://img.shields.io/badge/XSS-Attack-blueviolet?style=for-the-badge&logo=security&logoColor=white)
+![SQL Injection](https://img.shields.io/badge/SQL%20Injection-green?style=for-the-badge&logo=databricks&logoColor=white)
+![CSRF](https://img.shields.io/badge/CSRF-Protection-red?style=for-the-badge&logo=protonmail&logoColor=white)
+
+---
+
+### 🧱 System Hardening & Defense  
+![Linux Security](https://img.shields.io/badge/Linux%20Server%20Security-black?style=for-the-badge&logo=linux&logoColor=white)
+![Patch Management](https://img.shields.io/badge/Patch%20Management-grey?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+### 🎨 Development & UI/UX Skills  
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 

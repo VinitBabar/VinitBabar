@@ -61,7 +61,20 @@ I enjoy exploring new attack vectors, understanding adversary tactics, and imple
 - 🧰 Secure Coding & UI/UX for Security  
 
 ---
+## ⚙️ GitHub Stats  
 
+<p align="center">
+  <a href="https://github.com/VinitBabar">
+    <img src="https://github-readme-stats.vercel.app/api?username=VinitBabar&show_icons=true&theme=tokyonight&hide_border=true" alt="Vinit's GitHub Stats" height="165" />
+  </a>
+  <a href="https://github.com/VinitBabar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinitBabar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VinitBabar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
 
 
 ---

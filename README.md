@@ -76,10 +76,7 @@ I enjoy exploring new attack vectors, understanding adversary tactics, and imple
 
 ---
 
-### 🎨 Development & UI/UX Skills  
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+### 🎨UI/UX Skills
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge&logo=figma&logoColor=white)
 
 
